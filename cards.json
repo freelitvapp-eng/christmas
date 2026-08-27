@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "sdsdcsfc xvcsc",
+        "type": "Image",
+        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/Tuesday.png",
+        "content": null,
+        "created_at": "2026-08-27T12:02:15.000000Z",
+        "updated_at": "2026-08-27T12:02:15.000000Z",
+        "status": "Published",
+        "short_description": null,
+        "is_featured": false,
+        "allow_personalization": true,
+        "enable_download": true,
+        "publish_date": null,
+        "sort_order": 1,
+        "category_id": 1,
+        "category": "sdsc"
+    }
+]
