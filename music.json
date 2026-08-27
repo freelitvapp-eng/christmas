@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "dsds",
+        "artist": "raihan",
+        "file_url": "https:\/\/github.com\/farjahanaktertanny-debug\/christmas\/blob\/main\/tunetank-christmas-jazz-christmas-holiday-347485.mp3",
+        "image_url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b6fbf347654cebebd351454a",
+        "duration_seconds": null,
+        "created_at": "2026-08-27T12:12:08.000000Z",
+        "updated_at": "2026-08-27T12:12:08.000000Z",
+        "genre": "Instrumental",
+        "playlist": "Christmas Classics",
+        "description": null,
+        "status": "Published",
+        "publish_date": "2026-08-27T00:00:00.000000Z",
+        "is_featured": false,
+        "allow_download": true,
+        "enable_bg_play": true,
+        "sort_order": 0
+    }
+]
