@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "title": "sdsdcsfc xvcsc",
+        "title": "Christmas Candle Wreath",
         "type": "Image",
-        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/Tuesday.png",
+        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/card\/Christmas%20Candle%20Wreath.png",
         "content": null,
         "created_at": "2026-08-27T12:02:15.000000Z",
-        "updated_at": "2026-08-27T12:02:15.000000Z",
+        "updated_at": "2026-08-28T06:43:33.000000Z",
         "status": "Published",
         "short_description": null,
         "is_featured": false,
@@ -15,6 +15,42 @@
         "publish_date": null,
         "sort_order": 1,
         "category_id": 1,
-        "category": "sdsc"
+        "category": "Christmas"
+    },
+    {
+        "id": 2,
+        "title": "Christmas Express",
+        "type": "Image",
+        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/card\/Christmas%20Express.png",
+        "content": null,
+        "created_at": "2026-08-28T06:45:11.000000Z",
+        "updated_at": "2026-08-28T06:45:11.000000Z",
+        "status": "Published",
+        "short_description": null,
+        "is_featured": false,
+        "allow_personalization": true,
+        "enable_download": true,
+        "publish_date": null,
+        "sort_order": 2,
+        "category_id": 1,
+        "category": "Christmas"
+    },
+    {
+        "id": 3,
+        "title": "Cozy Christmas Window",
+        "type": "Image",
+        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/card\/Cozy%20Christmas%20Window.png",
+        "content": null,
+        "created_at": "2026-08-28T06:46:00.000000Z",
+        "updated_at": "2026-08-28T06:46:00.000000Z",
+        "status": "Published",
+        "short_description": null,
+        "is_featured": false,
+        "allow_personalization": true,
+        "enable_download": true,
+        "publish_date": null,
+        "sort_order": 3,
+        "category_id": 1,
+        "category": "Christmas"
     }
 ]
