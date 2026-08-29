@@ -1,1 +1,15 @@
-[]
+{
+    "id": 1,
+    "privacy_policy_url": null,
+    "music_licences_url": null,
+    "share_app_text": null,
+    "share_app_url": null,
+    "about_app_url": null,
+    "created_at": "2026-08-29T06:41:05.000000Z",
+    "updated_at": "2026-08-29T07:07:32.000000Z",
+    "favicon": "settings\/favicon.png",
+    "light_mode_image": null,
+    "dark_mode_image": null,
+    "light_mode_image_url": null,
+    "dark_mode_image_url": null
+}
