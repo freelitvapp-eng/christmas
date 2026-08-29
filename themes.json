@@ -7,8 +7,8 @@
         "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/Sunday.png",
         "primary_color": "#ffffff",
         "is_active": 1,
-        "created_at": "2026-08-27T11:58:29.000000Z",
-        "updated_at": "2026-08-27T11:58:29.000000Z"
+        "created_at": "2026-08-29T07:15:30.000000Z",
+        "updated_at": "2026-08-29T07:15:30.000000Z"
     },
     {
         "id": 6,
@@ -18,30 +18,30 @@
         "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/Saturday.png",
         "primary_color": "#ffffff",
         "is_active": 1,
-        "created_at": "2026-08-27T11:57:43.000000Z",
-        "updated_at": "2026-08-27T11:57:43.000000Z"
+        "created_at": "2026-08-29T07:14:21.000000Z",
+        "updated_at": "2026-08-29T07:14:21.000000Z"
     },
     {
         "id": 5,
         "day": 3,
         "name": "Friday \u2014 Christmas Ornaments",
         "hero_image_url": null,
-        "image_url": "https:\/\/github.com\/farjahanaktertanny-debug\/christmas\/blob\/main\/Friday.png?raw=true",
-        "primary_color": "#fffefe",
+        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/Friday.png",
+        "primary_color": "#ffffff",
         "is_active": 1,
-        "created_at": "2026-08-27T11:56:27.000000Z",
-        "updated_at": "2026-08-27T11:56:27.000000Z"
+        "created_at": "2026-08-29T07:13:28.000000Z",
+        "updated_at": "2026-08-29T07:13:28.000000Z"
     },
     {
         "id": 4,
         "day": 4,
         "name": "Thursday \u2014 Holiday Lights",
         "hero_image_url": null,
-        "image_url": "https:\/\/github.com\/farjahanaktertanny-debug\/christmas\/blob\/main\/Thursday.png?raw=true",
+        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/Thursday.png",
         "primary_color": "#ffffff",
         "is_active": 1,
-        "created_at": "2026-08-27T11:55:14.000000Z",
-        "updated_at": "2026-08-27T11:55:14.000000Z"
+        "created_at": "2026-08-29T07:12:44.000000Z",
+        "updated_at": "2026-08-29T07:12:44.000000Z"
     },
     {
         "id": 3,
@@ -49,10 +49,10 @@
         "name": "Wednesday \u2014 Frosty Pine",
         "hero_image_url": null,
         "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/Wednesday.png",
-        "primary_color": "#000000",
+        "primary_color": "#ffffff",
         "is_active": 1,
-        "created_at": "2026-08-27T11:54:00.000000Z",
-        "updated_at": "2026-08-27T11:54:00.000000Z"
+        "created_at": "2026-08-29T07:11:56.000000Z",
+        "updated_at": "2026-08-29T07:11:56.000000Z"
     },
     {
         "id": 2,
@@ -62,18 +62,18 @@
         "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/Tuesday.png",
         "primary_color": "#ffffff",
         "is_active": 1,
-        "created_at": "2026-08-27T11:44:30.000000Z",
-        "updated_at": "2026-08-27T11:44:30.000000Z"
+        "created_at": "2026-08-29T07:11:09.000000Z",
+        "updated_at": "2026-08-29T07:11:09.000000Z"
     },
     {
         "id": 1,
         "day": 7,
-        "name": "Monday \u2014 Snowy Evening",
+        "name": "Monday Theme (Snowy Evening)",
         "hero_image_url": null,
         "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/Monday.png",
-        "primary_color": "#fcf9f4",
+        "primary_color": "#ffffff",
         "is_active": 1,
-        "created_at": "2026-08-27T11:38:01.000000Z",
-        "updated_at": "2026-08-27T11:41:41.000000Z"
+        "created_at": "2026-08-29T06:49:24.000000Z",
+        "updated_at": "2026-08-29T06:49:24.000000Z"
     }
 ]
