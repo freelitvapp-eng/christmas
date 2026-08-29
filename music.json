@@ -1,14 +1,14 @@
 [
     {
-        "id": 2,
-        "title": "Christmas Party Time",
-        "artist": "BFCMUSIC",
-        "file_url": "https:\/\/github.com\/farjahanaktertanny-debug\/christmas\/raw\/refs\/heads\/main\/bfcmusic-christmas-party-time-249613.mp3",
-        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/13-28-49-39_200x200.jpg",
+        "id": 3,
+        "title": "We Wish You a Merry Christmas",
+        "artist": "ViacheslavStarostin",
+        "file_url": "https:\/\/github.com\/farjahanaktertanny-debug\/christmas\/raw\/refs\/heads\/main\/music\/viacheslavstarostin-we-wish-you-a-merry-christmas-444573.mp3",
+        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/music\/We%20Wish%20You%20a%20Merry%20Christmas.png",
         "duration_seconds": null,
-        "created_at": "2026-08-29T07:25:24.000000Z",
-        "updated_at": "2026-08-29T07:25:24.000000Z",
-        "genre": "Jazz",
+        "created_at": "2026-08-29T07:55:48.000000Z",
+        "updated_at": "2026-08-29T07:56:15.000000Z",
+        "genre": null,
         "playlist": null,
         "description": null,
         "status": "Published",
@@ -36,5 +36,24 @@
         "allow_download": true,
         "enable_bg_play": true,
         "sort_order": 2
+    },
+    {
+        "id": 2,
+        "title": "Christmas Party Time",
+        "artist": "BFCMUSIC",
+        "file_url": "https:\/\/github.com\/farjahanaktertanny-debug\/christmas\/raw\/refs\/heads\/main\/bfcmusic-christmas-party-time-249613.mp3",
+        "image_url": "https:\/\/raw.githubusercontent.com\/farjahanaktertanny-debug\/christmas\/refs\/heads\/main\/13-28-49-39_200x200.jpg",
+        "duration_seconds": null,
+        "created_at": "2026-08-29T07:25:24.000000Z",
+        "updated_at": "2026-08-29T07:57:02.000000Z",
+        "genre": "Jazz",
+        "playlist": null,
+        "description": null,
+        "status": "Published",
+        "publish_date": "2026-08-29T00:00:00.000000Z",
+        "is_featured": false,
+        "allow_download": true,
+        "enable_bg_play": true,
+        "sort_order": 3
     }
 ]
